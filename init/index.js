@@ -41,7 +41,7 @@ const initDB = async () => {
 
     updatedData.push({
       ...obj,
-      owner: "696a2ad0f7c47b3b24b2609d",
+      owner: "698223c1aa7d47c767d861d8",
       geometry: {
         type: "Point",
         coordinates: [lon, lat],
